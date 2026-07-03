@@ -16,7 +16,7 @@ One API for payments, wallets, and crypto settlement. Accept M-Pesa, Airtel Mone
 | PHP | `composer require mavunta/mavunta-php` | [mavunta-php](https://github.com/mavunta/mavunta-php) |
 | Laravel | `composer require mavunta/laravel-mavunta` | [laravel-mavunta](https://github.com/mavunta/laravel-mavunta) |
 | Go | `go get github.com/mavunta/mavunta-go` | [mavunta-go](https://github.com/mavunta/mavunta-go) |
-| Java | `com.mavunta:mavunta-java` (Maven Central rollout) | [mavunta-java](https://github.com/mavunta/mavunta-java) |
+| Java | `com.mavunta:mavunta-java:1.1.0` (Maven Central) | [mavunta-java](https://github.com/mavunta/mavunta-java) |
 
 Sandbox first: `cwk_test_` keys on `sandbox-api.mavunta.com/v1` never move real money.
 
